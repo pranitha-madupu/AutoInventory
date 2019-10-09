@@ -1,0 +1,29 @@
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.BL.dll
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.BL.pdb
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.DBAccess.dll
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.Models.dll
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.DBAccess.pdb
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.Models.pdb
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.BL\obj\Debug\DriveTown.Inventory.BL.csprojResolveAssemblyReference.cache
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.BL\obj\Debug\DriveTown.Inventory.BL.dll
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.BL\obj\Debug\DriveTown.Inventory.BL.pdb
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.BL\obj\Debug\DriveTown.Inventory.BL.dll
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.BL.dll
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.BL.pdb
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.DBAccess.dll
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.Models.dll
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.DBAccess.pdb
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.Models.pdb
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.BL\obj\Debug\DriveTown.Inventory.BL.csprojResolveAssemblyReference.cache
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.BL\obj\Debug\DriveTown.Inventory.BL.csproj.CoreCompileInputs.cache
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.BL\obj\Debug\DriveTown.Inventory.BL.pdb
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.BL.dll
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.BL.pdb
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.DBAccess.dll
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.Models.dll
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.DBAccess.pdb
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.BL\bin\Debug\DriveTown.Inventory.Models.pdb
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.BL\obj\Debug\DriveTown.Inventory.BL.csprojResolveAssemblyReference.cache
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.BL\obj\Debug\DriveTown.Inventory.BL.csproj.CoreCompileInputs.cache
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.BL\obj\Debug\DriveTown.Inventory.BL.dll
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.BL\obj\Debug\DriveTown.Inventory.BL.pdb

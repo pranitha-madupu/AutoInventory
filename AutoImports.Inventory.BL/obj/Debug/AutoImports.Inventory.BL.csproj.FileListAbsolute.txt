@@ -1,0 +1,10 @@
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.BL\bin\Debug\AutoImports.Inventory.BL.dll
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.BL\bin\Debug\AutoImports.Inventory.BL.pdb
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.BL\bin\Debug\AutoImports.Inventory.DBAccess.dll
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.BL\bin\Debug\AutoImports.Inventory.Models.dll
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.BL\bin\Debug\AutoImports.Inventory.DBAccess.pdb
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.BL\bin\Debug\AutoImports.Inventory.Models.pdb
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.BL\obj\Debug\AutoImports.Inventory.BL.csprojResolveAssemblyReference.cache
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.BL\obj\Debug\AutoImports.Inventory.BL.csproj.CoreCompileInputs.cache
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.BL\obj\Debug\AutoImports.Inventory.BL.dll
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.BL\obj\Debug\AutoImports.Inventory.BL.pdb
