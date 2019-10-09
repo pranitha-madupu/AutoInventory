@@ -1,0 +1,5 @@
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.DBAccess\bin\Debug\AutoImports.Inventory.DBAccess.dll
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.DBAccess\bin\Debug\AutoImports.Inventory.DBAccess.pdb
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.DBAccess\obj\Debug\AutoImports.Inventory.DBAccess.csproj.CoreCompileInputs.cache
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.DBAccess\obj\Debug\AutoImports.Inventory.DBAccess.dll
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.DBAccess\obj\Debug\AutoImports.Inventory.DBAccess.pdb

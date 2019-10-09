@@ -1,0 +1,16 @@
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.DBAccess\bin\Debug\DriveTown.Inventory.DBAccess.dll
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.DBAccess\bin\Debug\DriveTown.Inventory.DBAccess.pdb
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.DBAccess\obj\Debug\DriveTown.Inventory.DBAccess.csprojResolveAssemblyReference.cache
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.DBAccess\obj\Debug\DriveTown.Inventory.DBAccess.dll
+C:\Users\Shahjahan Khanum\Desktop\drivetown-drivetown-e7a00122bb45\DriveTown.Inventory.DBAccess\obj\Debug\DriveTown.Inventory.DBAccess.pdb
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.DBAccess\bin\Debug\DriveTown.Inventory.DBAccess.dll
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.DBAccess\bin\Debug\DriveTown.Inventory.DBAccess.pdb
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.DBAccess\obj\Debug\DriveTown.Inventory.DBAccess.csproj.CoreCompileInputs.cache
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.DBAccess\obj\Debug\DriveTown.Inventory.DBAccess.dll
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.DBAccess\obj\Debug\DriveTown.Inventory.DBAccess.pdb
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.DBAccess\bin\Debug\DriveTown.Inventory.DBAccess.dll
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.DBAccess\bin\Debug\DriveTown.Inventory.DBAccess.pdb
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.DBAccess\obj\Debug\DriveTown.Inventory.DBAccess.csprojResolveAssemblyReference.cache
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.DBAccess\obj\Debug\DriveTown.Inventory.DBAccess.csproj.CoreCompileInputs.cache
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.DBAccess\obj\Debug\DriveTown.Inventory.DBAccess.dll
+D:\Projects\AutoImports.Inventory\DriveTown.Inventory.DBAccess\obj\Debug\DriveTown.Inventory.DBAccess.pdb

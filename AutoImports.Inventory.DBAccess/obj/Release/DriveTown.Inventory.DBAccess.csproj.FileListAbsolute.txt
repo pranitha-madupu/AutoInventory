@@ -1,0 +1,6 @@
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.DBAccess\bin\Release\DriveTown.Inventory.DBAccess.dll
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.DBAccess\bin\Release\DriveTown.Inventory.DBAccess.pdb
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.DBAccess\obj\Release\DriveTown.Inventory.DBAccess.dll
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.DBAccess\obj\Release\DriveTown.Inventory.DBAccess.pdb
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.DBAccess\obj\Release\DriveTown.Inventory.DBAccess.csprojResolveAssemblyReference.cache
+D:\Projects\DriveTown.Inventory\DriveTown.Inventory.DBAccess\obj\Release\DriveTown.Inventory.DBAccess.csproj.CoreCompileInputs.cache

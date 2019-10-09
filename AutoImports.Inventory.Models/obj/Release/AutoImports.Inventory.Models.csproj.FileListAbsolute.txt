@@ -1,0 +1,6 @@
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.Models\bin\Release\AutoImports.Inventory.Models.dll
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.Models\bin\Release\AutoImports.Inventory.Models.pdb
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.Models\obj\Release\AutoImports.Inventory.Models.csprojResolveAssemblyReference.cache
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.Models\obj\Release\AutoImports.Inventory.Models.csproj.CoreCompileInputs.cache
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.Models\obj\Release\AutoImports.Inventory.Models.dll
+D:\Projects\AutoImports.Inventory\AutoImports.Inventory.Models\obj\Release\AutoImports.Inventory.Models.pdb
